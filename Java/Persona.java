@@ -13,7 +13,7 @@ public class Persona {
     private String apellidos;
     private int edad;
 
-    static final int MAYORIA_EDAD = 50;
+    static final int MAYORIA_EDAD = 70;
     static final int JUBILACION_EDAD = 80;
 
     /**
